@@ -43,3 +43,5 @@ Em resumo, o Centro 1 sofreu um processo onde a infraestrutura envelhecida e a m
 Em Resumo: os principais assuntos foram a contextualização do avanço populacional do município diante a grande industrialização da cidade e sobre os movimentos sociais de desenvolvimento urbano.
 Onde a inteligência artificial pontuou alguns pontos interessantes: O crescimento do município se deve principalmente do fator de inauguração de 2 grandes pontos de referencia seguidos: Inauguração do Instituto de Tecnologia Aeronáutica (ITA) e da Rodovia Presidente Dutra, de forma seguida e como o plano diretor de desenvolvimento urbano define onde a cidade deve se direcionar e outro local se perder a sua antiga importância.
 O Principal linha de prompt utilizada é fazer a pergunta de forma objetiva, onde a pergunta, quando mais simples e entendível for, melhor a IA entenderá a pergunta e saberá como puxar as informações para ir se aprofundando de acordo com o rumo da pesquisa  
+
+O Link do Projeto: https://notebook.google.com/notebook/fc12693c-e116-4590-8449-ee35744a3678
